@@ -1,0 +1,5 @@
+https://gakko.pja.edu.pl;Strona Pjatk
+http://www.google.com;Google
+https://stackoverflow.com;Stackoverflow
+http://www.facebook.com;FB
+http://www.youtube.com;YT
